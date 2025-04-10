@@ -1,3 +1,3 @@
 # Supply Chain Dashboard
 
-![Supply Chain Dashboard](.1.png)
+![Supply Chain Dashboard](./1.png)
