@@ -29,3 +29,19 @@ Dashboard gồm **3 trang chính**:
 - **Power BI Desktop**
 - **Excel (.xlsx)** – nguồn dữ liệu đầu vào
 - **DAX** – để tính toán các chỉ số nâng cao như Profit Margin, Return Rate, AVG Delivery Days
+## 🧪 Cách sử dụng / Hướng dẫn cài đặt Power BI
+
+### 🔧 Yêu cầu:  
+Cài đặt phần mềm **Power BI Desktop** (miễn phí)
+
+---
+
+### ✅ Các bước:
+
+1. **Tải Power BI Desktop** từ:
+   - 💻 [Microsoft Store](https://apps.microsoft.com/store/detail/power-bi-desktop/9NTXR16HNW1T)
+   - 🌐 Hoặc [Trang chính thức của Microsoft](https://powerbi.microsoft.com/desktop)
+
+2. **Tải file `Supply chain.pbix`** từ repository GitHub này.
+
+3. **Mở file `.pbix` bằng Power BI Desktop**
